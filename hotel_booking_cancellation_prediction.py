@@ -31,7 +31,6 @@ df2.drop_duplicates()
 
 df2.boxplot()
 
-#df2['adults'].plot(kind="box")
 
 df2['babies'].plot(kind="box")
 
