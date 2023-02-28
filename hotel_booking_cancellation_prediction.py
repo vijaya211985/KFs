@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-df = pd.read_csv('https://github.com/KoonFoong/Hotel_Booking_Cancellation_Prediction/blob/main/hotel_bookings.csv')
+df = pd.read_csv('hotel_bookings.csv')
 d_copy = df
 
 
