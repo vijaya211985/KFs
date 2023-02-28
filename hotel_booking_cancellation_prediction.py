@@ -32,8 +32,6 @@ df2.drop_duplicates()
 df2.boxplot()
 
 
-df2['babies'].plot(kind="box")
-
 
 avg_adults = df2['adults'].mean()
 
